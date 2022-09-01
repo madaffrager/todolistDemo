@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# MODEL OF THE APP 
+https://todolist-demo-lime.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
